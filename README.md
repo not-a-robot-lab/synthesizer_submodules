@@ -1,6 +1,7 @@
 # Synthesizer Submodules
 A collection of submodules with various synthesizer functions.
 All the submodules will have at least 2 panel mounting controls/jacks so it can be fixed to the front panel.
+The power and connectors are compatible with the Eurorack standard.
 The frontpanel is based on a  10x10mm grid of 6.8mm holes. 
 This allows the frontpanels to be re-used to take any combination of the submodules.
 This does mean a design limitation of what controls to use.
